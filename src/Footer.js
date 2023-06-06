@@ -8,7 +8,7 @@ function App() {
     <div className="App"><footer>
           <small>
             <a
-              href="https://github.com/carmenavalhas/my-weather-app"
+              href="https://github.com/carmenavalhas/myapp-react-weather"
               target="_blank"
               ><em>Open-source code</em></a
             >, by Carmen Navalhas
