@@ -10,6 +10,7 @@ function App() {
             <a
               href="https://github.com/carmenavalhas/myapp-react-weather"
               target="_blank"
+              rel="noreferrer"
               ><em>Open-source code</em></a
             >, by Carmen Navalhas
           </small>
