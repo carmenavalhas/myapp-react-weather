@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 60px;
+  color: #849b87;
+  text-align: center;
+}
+
+h3 {
+  color: #705697;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+form {
+  margin: 0 auto;
+}
+
+.loaderSpinner {
+  margin-top: 40px;
+}
